@@ -1,0 +1,9 @@
+E:\unity\Dota\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\unity\Dota\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\unity\Dota\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\unity\Dota\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\unity\Dota\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\unity\Dota\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\unity\Dota\obj\Debug\UnityVS.Dota.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\unity\Dota\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\unity\Dota\obj\Debug\Assembly-CSharp-firstpass.pdb

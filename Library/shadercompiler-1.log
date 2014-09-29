@@ -1,0 +1,51 @@
+Base path: D:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5040
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1572 outsize=888 ok=1
+Cmd: preprocess
+  insize=1801 outsize=900 ok=1
+Cmd: preprocess
+  insize=219 outsize=219 ok=1
+Cmd: preprocess
+  insize=1523 outsize=503 ok=1
+Cmd: preprocess
+  insize=1829 outsize=857 ok=1
+Cmd: preprocess
+  insize=479 outsize=479 ok=1
+Cmd: preprocess
+  insize=1834 outsize=876 ok=1
+Cmd: preprocess
+  insize=1462 outsize=503 ok=1
+Cmd: preprocess
+  insize=532 outsize=532 ok=1
+Cmd: preprocess
+  insize=1875 outsize=895 ok=1
+Cmd: preprocess
+  insize=1805 outsize=885 ok=1
+Cmd: preprocess
+  insize=1798 outsize=882 ok=1
+Cmd: preprocess
+  insize=3042 outsize=1804 ok=1
+Cmd: preprocess
+  insize=1871 outsize=896 ok=1
+Cmd: preprocess
+  insize=1891 outsize=860 ok=1
+Cmd: preprocess
+  insize=435 outsize=435 ok=1
+Cmd: preprocess
+  insize=522 outsize=522 ok=1
+Cmd: preprocess
+  insize=6178 outsize=3522 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (64): 'vert': output parameter 'o' not completely initialized
+  error: 1 plat 4 at (81): implicit truncation of vector type
+  api=4 type=0 insize=7048 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=1524 outsize=883 ok=1
+Cmd: preprocess
+  insize=2361 outsize=2258 ok=1
+Cmd: preprocess
+  insize=1241 outsize=492 ok=1
+Cmd: preprocess
+  insize=1667 outsize=928 ok=1

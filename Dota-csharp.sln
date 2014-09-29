@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{637E2212-4161-9AAB-5A55-637F70281F6B}") = "Dota", "Assembly-CSharp-firstpass-vs.csproj", "{6C8E1BB1-FF67-18BF-462F-1892FD7EE222}"
+EndProject
+Project("{637E2212-4161-9AAB-5A55-637F70281F6B}") = "Dota", "Assembly-CSharp-vs.csproj", "{EE9E22C5-09BC-EF26-9747-2D6F37961086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8E1BB1-FF67-18BF-462F-1892FD7EE222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8E1BB1-FF67-18BF-462F-1892FD7EE222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8E1BB1-FF67-18BF-462F-1892FD7EE222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8E1BB1-FF67-18BF-462F-1892FD7EE222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9E22C5-09BC-EF26-9747-2D6F37961086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9E22C5-09BC-EF26-9747-2D6F37961086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9E22C5-09BC-EF26-9747-2D6F37961086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9E22C5-09BC-EF26-9747-2D6F37961086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																														GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
